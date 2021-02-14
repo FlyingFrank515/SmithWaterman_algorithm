@@ -9,3 +9,4 @@ Visit https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm to learn ho
 4. wait for results(maybe many results)
 ## Another version ?
 The algorithm can be writen in Verilog. Use the advantages of verilog (parallel caculation), the algorithm can run in 100x more faster.
+You can see my repo "Verilog_Project_2020Fall/ SmithWaterman" to learn more.
